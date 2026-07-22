@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/
+test_dashboard.py
+# The encrypted payload (output/assets/payload.js) is safe to commit:
+# it contains only AES-256-GCM ciphertext.

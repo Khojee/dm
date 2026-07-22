@@ -1,0 +1,4 @@
+pandas>=2.0
+emoji>=2.10
+cryptography>=42.0
+langdetect>=1.0.9

@@ -1,0 +1,17 @@
+{
+  "data_dir": "../data",
+  "output_dir": "output",
+  "passphrase": "koko2026",
+  "timezone_offset_hours": 5,
+  "session_gap_minutes": 30,
+  "participants": {
+    "me": {
+      "display": "Khojee",
+      "aliases": ["Xojiakbar", "Khojiakbar Tulkunov", "khojiakbartulkunov", "Khojiakbar"]
+    },
+    "friend": {
+      "display": "Koko",
+      "aliases": ["Koko", "KOKO", "kamolaziyodova", "Kamola", "Kamola Ziyodova"]
+    }
+  }
+}
