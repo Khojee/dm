@@ -2,5 +2,6 @@
 __pycache__/
 data/
 test_dashboard.py
+change_passphrase.py
 # The encrypted payload (output/assets/payload.js) is safe to commit:
 # it contains only AES-256-GCM ciphertext.

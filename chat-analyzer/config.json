@@ -1,7 +1,7 @@
 {
   "data_dir": "../data",
-  "output_dir": "output",
-  "passphrase": "koko2026",
+  "output_dir": "../",
+  "passphrase": "helloworld",
   "timezone_offset_hours": 5,
   "session_gap_minutes": 30,
   "participants": {
